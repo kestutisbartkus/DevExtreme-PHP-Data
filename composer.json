@@ -1,0 +1,11 @@
+{
+    "name": "devexpress/devextreme-php-data",
+    "description": "DevExpress PHP Data Applications",
+    "license": "proprietary",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "classmap": ["DevExtreme/"]
+    }
+}
