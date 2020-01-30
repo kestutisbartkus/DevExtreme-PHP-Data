@@ -17,7 +17,7 @@ class DbSet {
     private $dbTableName;
     private $tableNameIndex = 0;
     private $lastWrappedTableName;
-    private $resultQuery;
+    protected $resultQuery;
     private $mySQL;
     private $lastError;
     private $groupSettings;
